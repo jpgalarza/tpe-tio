@@ -1,0 +1,2 @@
+TEXTO DE PANTALLA
+linea de prueba en pantalla.txt
