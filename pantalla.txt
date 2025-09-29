@@ -1,3 +1,7 @@
 TEXTO DE PANTALLA
+<<<<<<< HEAD
 linea de prueba en pantalla.txt
 linea de prueba en pantalla.txt
+=======
+agregar linea nueva
+>>>>>>> a0e608845d818179eb3865352c580e1d1a777320
