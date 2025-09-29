@@ -1,2 +1,6 @@
 Listado de productos a ofrecer
 mejora de presentacion mediante imagenes y archivos con formato de texto
+pan
+medialunas
+fugaza
+bizcochos
