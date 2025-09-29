@@ -1,0 +1,2 @@
+React - NodeJS - Mongo DB
+React Native
